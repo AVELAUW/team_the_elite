@@ -4,6 +4,10 @@ body, html {
   font-family: "Inconsolata", sans-serif; 
   background-color: #F4A460;
 }
+.my-container {
+  background-color: #ffcc00; 
+}
+
 
 .bgimg {
   background-position: center;
