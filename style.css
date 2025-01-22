@@ -25,4 +25,8 @@ body, html {
   background-color: #f0f0f0;
 }
 }
+
+a:hover {
+  background-color: #D0A98B;
+}
 </style>
