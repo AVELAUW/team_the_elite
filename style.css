@@ -11,7 +11,15 @@ body, html {
   background-color: #ffcc00; 
 }
 
-
+<head>
+  <style>
+    .center {
+      background-color: #f0f0f0; 
+      padding: 20px; 
+      border-radius: 8px;
+    }
+  </style>
+</head>
 .bgimg {
   background-position: center;
   background-size: cover;
