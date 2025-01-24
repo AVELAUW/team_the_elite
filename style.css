@@ -6,6 +6,12 @@ body, html {
   body {
   background-color: rgb(240, 240, 240); /* Light gray */
 }
+  <style>
+div {
+  width:300px;
+  margin:auto;
+}
+</style>
 }
 .my-container {
   background-color: #ffcc00; 
